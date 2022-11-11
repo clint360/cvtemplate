@@ -22,7 +22,6 @@ hr {
   margin: auto;
 }
 
-
 .side-block {
   border-radius: 3px;
   width: 100%;
@@ -59,7 +58,6 @@ hr {
 .languages {
   padding: 0.4rem 1rem 1.5rem;
 }
-
 
 .full-bar {
   height: 1.5rem;
@@ -205,8 +203,6 @@ footer a {
   color: #fff;
 }
 
-/*for small screens*/
-
 @media (max-width: 40em) {
   .all-divs {
     grid-template-columns: 1fr;
@@ -227,9 +223,6 @@ footer a {
     background-size: cover;
     color: #000;
     width: auto;
-
-    /* height: 40vw; */
-
     height: 18.5rem;
     max-height: 30rem;
     font-size: 1.5rem;
