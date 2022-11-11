@@ -13,7 +13,7 @@ A web designed curriculum vitae that gives a detailed account of personal data a
 
 ### Prerequisites
 
-Google Chrome, basic html, css.
+Google Chrome, basic HTML, CSS.
   
 ## Clone project
 
