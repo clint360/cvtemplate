@@ -207,7 +207,7 @@ body {
   
   /*for small screens*/
   
-  @media (max-width: 40em) {
+  @media (max-width: 42em) {
     .all-divs {
       grid-template-columns: 1fr;
       justify-content: center;
